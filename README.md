@@ -34,8 +34,7 @@ Cook, R. D., and Weisberg, S. (1994). An Introduction to Regression Graphics. Wi
 ### Data Presentation
 
 * The data are collected from 102 male and 100 female athletes.\
-They consist of 13 variables.\
-<br>The first two variables are categorical and especially are the gender of the 2 athlete and their sport.<br /> 
+They consist of 13 variables.\<br>The first two variables are categorical and especially are the gender of the 2 athlete and their sport.<br /> 
 The remaining 11 variables are various measurements made on the athletes. \
 The dataset is available in the file sport.txt.
 
