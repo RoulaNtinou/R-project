@@ -16,8 +16,8 @@
 
 * **Background information**
   
-The Australian Institute of Family Studies (AIFS) is a Melbournebased Australian Government statutory agency established in 1980 under the Family 
-Law Act 1975.
+The Australian Institute of Family Studies (AIFS) is a Melbourne based Australian Government statutory agency established in 1980 under the Family 
+Law Act 1975.\
 The Institute has a proud record of high-quality, responsive and impartial research into the wellbeing of (Australian) families. The vision of Institute is to make a 
 positive contribution to the wellbeing of families by advancing understanding of the factors affecting families and communicating findings to policy makers, service 
 providers and the broader community.
