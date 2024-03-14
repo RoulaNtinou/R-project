@@ -23,5 +23,15 @@ positive contribution to the wellbeing of families by advancing understanding of
 providers and the broader community.
 
 * **Aim of the study**:
- Understand how data on various characteristics of the blood varied with sport body size and sex of the athlete. 
+ Understand how data on various characteristics of the blood varied with sport body size and sex of the athlete.
+
+- - - -
+
+### Data Presentation
+
+*The data 
+The data are collected from 102 male and 100 female athletes. \
+They consist of 13 variables. The first two variables are categorical and especially are the gender of the 2 athlete and their sport.\ 
+The remaining 11 variables are various measurements made on the athletes. \
+The dataset is available in the file sport.txt. 
 
