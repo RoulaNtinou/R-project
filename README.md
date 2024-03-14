@@ -4,7 +4,6 @@
 
 ## Table of Contents
 
-* [Problem Statement](#problem-statement)
 * [Data Sourcing](#data-sourcing)
 * [Data Presentation](#data-presentation)
 * [Data Analysis](#data-analysis)
@@ -13,4 +12,16 @@
 
 - - - -
 
-### Problem Statement
+### Data Sourcing
+
+* **Background information**
+  
+The Australian Institute of Family Studies (AIFS) is a Melbournebased Australian Government statutory agency established in 1980 under the Family 
+Law Act 1975.
+The Institute has a proud record of high-quality, responsive and impartial research into the wellbeing of (Australian) families. The vision of Institute is to make a 
+positive contribution to the wellbeing of families by advancing understanding of the factors affecting families and communicating findings to policy makers, service 
+providers and the broader community.
+
+* **Aim of the study**:
+ Understand how data on various characteristics of the blood varied with sport body size and sex of the athlete. 
+
