@@ -35,12 +35,12 @@ Cook, R. D., and Weisberg, S. (1994). An Introduction to Regression Graphics. Wi
 
 * The data are collected from 102 male and 100 female athletes.\
 They consist of 13 variables.\
-The first two variables are categorical and especially are the gender of the 2 athlete and their sport.\ 
+The first two variables are categorical and especially are the gender of the 2 athlete and their sport. \ 
 The remaining 11 variables are various measurements made on the athletes. \
 The dataset is available in the file sport.txt.
 
 * **Dataset characteristics**
-All datasets are random subsamples of 100 athletes and have the following fields:\ 
+All datasets are random subsamples of 100 athletes and have the following fields: \ 
 Sex: a factor with levels {male, female}\
 Sport: a factor with levels {BBall, Field, Gym, Netball, Row, Swim, T400m, TSprnt, WPolo }\
 RCC: red blood cell count, in 10^{10} per liter\
