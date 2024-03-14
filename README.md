@@ -29,9 +29,8 @@ providers and the broader community.
 
 ### Data Presentation
 
-*The data 
-The data are collected from 102 male and 100 female athletes. \
-They consist of 13 variables. The first two variables are categorical and especially are the gender of the 2 athlete and their sport.\ 
+* The data are collected from 102 male and 100 female athletes. \
+They consist of 13 variables. The first two variables are categorical and especially are the gender of the 2 athlete and their sport. \ 
 The remaining 11 variables are various measurements made on the athletes. \
 The dataset is available in the file sport.txt. 
 
